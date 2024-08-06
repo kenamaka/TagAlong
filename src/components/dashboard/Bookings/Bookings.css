@@ -1,0 +1,217 @@
+
+
+.big-box1{
+    width: 306px;
+height: 260px !important;
+display: flex;
+padding: 24px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 8px;
+flex-shrink: 0;
+box-shadow: 0px 7px 25px  rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+}
+.small-box1{
+    display: flex;
+width: 306px;
+height: 122px;
+flex-direction: column;
+align-items: flex-start;
+gap: 4px;
+flex-shrink: 0;
+box-shadow: 0px 7px 25px  rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+margin-bottom: 15px !important;
+padding: 15px;
+}
+
+.big-box2{
+display: flex;
+padding: 24px;
+flex-direction: column;
+/* justify-content: center; */
+align-items: flex-start;
+gap: 8px;
+flex-shrink: 0;
+box-shadow: 0px 7px 25px  rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+}
+
+.book-map{
+    
+}
+
+.book-flex{
+    gap: 60px;
+}
+.book-head{
+    color:#000;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 127.273% */   
+}
+
+.book-card{
+    display: inline-flex;
+    padding: 15px 10px 15px 10px ;
+    align-items: center;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+.card-img{
+    width: 48px;
+height: 48px;
+border-radius: 48px;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+.card-img-image1{
+background-image: url("/src/components/assets/img/team-15.jpg");
+
+}
+.card-img-image2{
+    background-image: url("/src/components/assets/img/clare.jpg");
+    
+    }
+
+
+.book-card-cont{
+    padding: 5px 10px 5px 10px ;
+
+}
+
+.book-card .book-flex{
+    gap: 10px;
+}
+.card-svg{
+    display:flex;
+    align-items: center;
+    gap: 11px;
+}
+.card-svg .text{
+line-height: 12px !important;
+}
+
+.card-svg svg{
+    width: 17px;
+    width: 17px;
+}
+.star-svg{
+    width: 12px;
+    height: 12px;
+}
+
+.contact-svg{
+    width: 48px;
+    height: 48px;
+}
+
+.card-text{
+font-weight: 800 !important;
+line-height: 12px !important;
+}
+
+.btn-place{
+    background:  #0032BB;
+}
+.btn-place:hover{
+    background: #5072cf;
+}
+
+.amount{
+    color: #000;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; 
+}
+.dash{
+    width: 12.332px;
+height: 1.5px;
+position: absolute;
+left: 15.277px;
+top: 11.133px;
+background: #000;
+}
+.dash2{
+    top: 13px;
+}
+
+.text1{
+    color:  #7B7B7B;
+    font-size: 12px ;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.6px;
+}
+
+.earn-year{
+    width: 77px !important;
+height: 32px;
+}
+
+.earn-year-text{
+    font-size: 10px !important;
+
+}
+
+
+
+.cover{
+    width: 24px;
+height: 24px;
+border-radius: 50%;
+background: rgba(9, 154, 79, 0.10);
+/* overflow: hidden; */
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.cover svg{
+    width: 12px;
+    height: 10px;
+}
+.bold{
+    color: #000;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 48px; /* 188.889% */
+letter-spacing: 0.6px;
+}
+
+
+/* graphs css */
+
+.hr-line{
+    width: auto;
+height: 1px !important;
+background: #E9E9E9;
+}
+
+@media (min-width:1200px) {
+    .big-box2{
+        width:493px;
+        height: 528px;
+        }
+    .book-flex{
+        gap: 80px;
+    }
+} 
+
+@media (min-width:1400px) {
+    .big-box2{
+        width:509px;
+        height: 505px;
+        }
+    .book-flex{
+        gap: 60px;
+    }
+}

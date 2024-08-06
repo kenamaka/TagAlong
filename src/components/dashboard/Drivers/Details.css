@@ -1,0 +1,26 @@
+.dash-profile{
+    position: relative;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+border-radius: 50%;
+background:  lightgray 50% / cover no-repeat;
+}
+
+.dash-profile .svg{
+    position: absolute;
+    margin: 115px 0px 10px 100px;
+}
+
+.profile-svg{
+    width: 20px;
+    height: 30px;
+}
+.msg-svg{
+    width: 23px;
+    height: 16px;
+}
+
+.box-width{
+    width: 316px !important;
+}

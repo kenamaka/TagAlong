@@ -1,0 +1,37 @@
+.big-box-trends{
+    display: flex;
+/* width: 298px !important; */
+height: auto !important;
+gap: 18px !important;
+
+}
+.trends{
+    width: 216.106px;
+height: 216.106px;
+flex-shrink: 0;
+}
+
+.trend-times{
+    width: 10px;
+height: 10px;
+}
+.trend-time{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.table-svg{
+    width: 16px;
+height: 18.445px;
+}
+
+.big-box-finance{
+width: 400px !important;
+height: 200px;
+box-shadow: 0px 7px 25px  rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+}
+
+
+

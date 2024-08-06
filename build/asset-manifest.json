@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6059fdac.css",
+    "main.js": "/static/js/main.c1192738.js",
+    "static/media/tagalong3.jpg": "/static/media/tagalong3.b2c7f7863c217196fcbf.jpg",
+    "static/media/girl.jpg": "/static/media/girl.b36ef7d5617da7051c6c.jpg",
+    "static/media/passenger.jpg": "/static/media/passenger.6cc40218e80312a4fa73.jpg",
+    "static/media/man.jpg": "/static/media/man.a5bedc010bdb9c42c721.jpg",
+    "static/media/playstore.png": "/static/media/playstore.dd73220120c8f68ce729.png",
+    "static/media/mobil.jpg": "/static/media/mobil.e3f51304776193623534.jpg",
+    "static/media/clare.jpg": "/static/media/clare.827902adaa69d645bbe0.jpg",
+    "static/media/girl3.jpg": "/static/media/girl3.620893bce06953169079.jpg",
+    "static/media/babe.jpg": "/static/media/babe.aa4c8bdce284cf7fc8d0.jpg",
+    "static/media/man1.jpg": "/static/media/man1.e4b00821b6fd8829d064.jpg",
+    "static/media/post3.jpg": "/static/media/post3.b7af78433f86c2ac4fe4.jpg",
+    "static/media/appstore.png": "/static/media/appstore.2a8f2a38110b76832fb2.png",
+    "static/media/search.svg": "/static/media/search.565f640c5c2c890ee6acf83430ca2b75.svg",
+    "index.html": "/index.html",
+    "static/media/profit.svg": "/static/media/profit.e428bfbd83e3d25eba28f3434f3d697a.svg",
+    "main.6059fdac.css.map": "/static/css/main.6059fdac.css.map",
+    "main.c1192738.js.map": "/static/js/main.c1192738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6059fdac.css",
+    "static/js/main.c1192738.js"
+  ]
+}
